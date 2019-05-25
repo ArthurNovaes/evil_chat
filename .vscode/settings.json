@@ -1,4 +1,4 @@
 {
   "ruby.rubocop.useBundler": true,
-  "ruby.rubocop.executePath": "/home/arthur/.rvm/gems/ruby-2.6.0/bin/rubocop"
+  "ruby.rubocop.configFilePath": "path/to/config/.rubocop.yml"
 }
